@@ -31,6 +31,7 @@ EDA involved exploring the sales data to answer key questions such as:
 - What is the total profit? 
 
 ## Data Analysis and Visualization
+![HR ANALYTCIS](https://github.com/user-attachments/assets/6dc60f5c-21c1-486b-a738-38c71a45f45a)
 
 
 ## Results/Findings
